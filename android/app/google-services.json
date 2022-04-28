@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890228898126",
+    "project_id": "medpiper-39526",
+    "storage_bucket": "medpiper-39526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890228898126:android:361c35aea728a1c3c9861f",
+        "android_client_info": {
+          "package_name": "com.example.medpiper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890228898126-vmvc6esugma6pnffqtegn3arh15qd75p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medpiper",
+            "certificate_hash": "b4b1d9fe6d63fc1724cb57ca125e0ea9d45f6347"
+          }
+        },
+        {
+          "client_id": "890228898126-00t530p3kv21ijutngj56of4pppj2urf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZmbRP_bXVRB2Y7vtjUd5UXiNNgBHkM-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890228898126-00t530p3kv21ijutngj56of4pppj2urf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
