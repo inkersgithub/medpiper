@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "890228898126",
+    "firebase_url": "https://medpiper-39526-default-rtdb.firebaseio.com",
     "project_id": "medpiper-39526",
     "storage_bucket": "medpiper-39526.appspot.com"
   },
@@ -13,6 +14,14 @@
         }
       },
       "oauth_client": [
+        {
+          "client_id": "890228898126-gv1ti2o6i7rg6hg3u7b2bfudogcm76h3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medpiper",
+            "certificate_hash": "af4e9f7e5768141e35acaef35bdc7ea69b44ec9e"
+          }
+        },
         {
           "client_id": "890228898126-vmvc6esugma6pnffqtegn3arh15qd75p.apps.googleusercontent.com",
           "client_type": 1,
